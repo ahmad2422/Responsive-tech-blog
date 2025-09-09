@@ -1,7 +1,7 @@
 # Astro & Tailwind CSS Starter Kit
 
 ## 🔥 Features
-
+ 
 Explore the Astro.js Personal Blog Template – a sleek and feature-rich platform for your personal blog:
  
 - **Astro.js Powered**: Dynamic and efficient JavaScript-driven experience.
